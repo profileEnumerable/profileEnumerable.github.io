@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Independent work</title>
+    <script src="../global/myLibrary.js"></script>
+    <script src="textAnalyser.js" defer></script>
+    <link rel="stylesheet" href="../global/common.css">
+    <link rel="stylesheet" href="analysisPageSt.css">
+    <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Cousine" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
+        integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+</head>
+
+<body>
+    <header>
+        <span class="task-num">Text analysis page</span>
+        <div class="flex-header">
+            <div class="task-description">
+
+                <details>
+                    <summary>Task-description</summary>
+
+                    <pre>
+                Сторінка аналізу тексту
+                    1.Зліва виводиться таблиця, в якій показується частота появи в тексті всіх вхідних в нього слів 
+                    (словами вважати будь-які послідовності букв; цифри, спецсимволи і т.д. сприймати як 
+                    роздільники, регістр ігнорувати).
+                    2.Справа виводиться весь текст, над яким розташована область пошуку.
+                    3.Зона пошуку складається з поля текстового введення і кнопки «Шукати»
+                    4.Під час введення тексту в поле текстового вводу повинна з'являтися спливаюча область, 
+                    показує зустрічаються в тексті слова, які підходять під введення.
+                   </pre>
+                </details>
+
+            </div>
+        </div>
+    </header>
+    <main>
+        <div class="container">
+            <div class="flexible-alalysis-area">
+                <div class="frequency-data scrollable-container">
+                    <table class="frequency-table">
+                        <tr class="wordFreq">
+                            <td class="cell"></td>
+                            <td class="cell"></td>
+                        </tr>
+                    </table>
+                </div>
+
+                <div class="search-area">
+                    <input type="text" class="search-pattern">
+                    <input class="search-butt" value="Search" type="button">
+                    <ul class="list-found-words">
+                    </ul>
+                    <div class="analyzed-text">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem reiciendis velit, possimus
+                        esse saepe nemo. Deserunt quo at aperiam soluta aut repudiandae vel incidunt! Veniam odio et
+                        minima temporibus iusto?
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+    </div>
+</body>
+
+</html>

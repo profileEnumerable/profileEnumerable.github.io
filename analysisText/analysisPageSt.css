@@ -1,0 +1,47 @@
+.flexible-alalysis-area {
+  display: flex;
+  color: aliceblue;
+}
+
+.frequency-data {
+  height: 400px;
+}
+
+.search-area {
+  flex: 3;
+  margin-left: 100px;
+}
+
+.cell {
+  border: 2px solid steelblue;
+  padding: 5px 30px;
+}
+
+.frequency-table tr:first-child {
+  display: none;
+}
+
+.list-found-words {
+  position: absolute;
+  background-color: cadetblue;
+  border-radius: 5px;
+}
+
+.search-pattern,
+.search-butt {
+  padding: 7px 0;
+  border: none;
+  border-radius: 7px;
+}
+
+.list-found-words,
+.search-pattern {
+  width: 150px;
+}
+
+.found-word {
+  background-color: mediumseagreen;
+  border-radius: 5px;
+  color: darkblue;
+  font-weight: bold;
+}

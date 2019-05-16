@@ -1,0 +1,23 @@
+.splitter-block {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .analysis-button {
+    background-color: darkseagreen;
+    color: #212121;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 1.5rem;
+    font-family: "Poppins", sans-serif;
+    transition: all 0.2s ease-in;
+  }
+  
+  .analysis-button:hover {
+    transform: scale(1.1);
+  }
+  
+  #typing-area {
+    font-size: 1.2rem;
+  }

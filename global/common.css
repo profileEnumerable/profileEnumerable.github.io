@@ -1,0 +1,72 @@
+/*----------------------Style by name of tag -----------------------------*/
+html,
+body {
+  height: 100%;    
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;  
+  background: #212121;
+}
+
+header {
+  background: cornflowerblue;
+  height: 55px;  
+  /*add support for other browsers*/
+  background: -moz-linear-gradient(rgb(46, 46, 206), rgb(160, 24, 179));
+}
+
+main {
+  padding-top: 100px;  
+}
+
+table{
+  border-collapse: collapse;
+}
+
+ul{
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+/*----------------------- Style by name of selector---------------------- */
+.container {
+  max-width: 1024px;
+  margin: auto;  
+}
+
+.scrollable-container{
+  overflow: scroll;
+}
+
+.task-num {
+  display: block;
+  color: aliceblue;
+  background: darkslateblue;
+  width: 20%;
+  height: 100%;
+  font-size: 1.5rem;  
+  text-align: center;
+}
+
+.flex-header {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.task-description {
+  margin-right: 10%;
+  background: cornflowerblue;
+  border-radius: 10px;
+  padding: 10px;
+  font-size: 1.4rem;
+  font-weight: bold;
+  color: black;
+  z-index: 100;
+}
+
