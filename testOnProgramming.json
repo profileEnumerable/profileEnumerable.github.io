@@ -16,7 +16,6 @@
         "instanceof",
         "constructor",
         "parent",
-        "new",
-        "Все имеют специальное использование."
+        "new"        
     ]
 }
