@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Type": "Hardware",
+    "Price": "100",
+    "TimeSpan": "3/11/2019 6:00:00 PM"
+  },
+  {
+    "Id": 2,
+    "Type": "Software",
+    "Price": "100",
+    "TimeSpan": "10/16/2019 6:00:00 PM"
+  },
+  {
+    "Id": 3,
+    "Type": "Hardware/Software with high importance",
+    "Price": "100",
+    "TimeSpan": "2/14/2019 6:00:00 PM"
+  },
+  {
+    "Id": 4,
+    "Type": "Hardware with high importance",
+    "Price": "100",
+    "TimeSpan": "9/11/2019 6:00:00 PM"
+  },
+  {
+    "Id": 5,
+    "Type": "Software with high importance",
+    "Price": "100",
+    "TimeSpan": "6/19/2019 6:00:00 PM"
+  }
+]

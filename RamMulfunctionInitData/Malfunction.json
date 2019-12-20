@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Description": "Memory read error",
+    "AppearsDate": "2/20/2018 00:00:00 AM"
+  },
+  {
+    "Id": 2,
+    "Description": "Defective RAM",
+    "AppearsDate": "8/19/2017 02:10:00 AM"
+  },
+  {
+    "Id": 3,
+    "Description": "DDR3 2800mhz 4x4 issue",
+    "AppearsDate": "2/20/2018 00:00:00 AM"
+  },
+  {
+    "Id": 4,
+    "Description": "RAM frequency issues after updating BIOS",
+    "AppearsDate": "8/19/2017 02:10:00 AM"
+  },
+  {
+    "Id": 5,
+    "Description": "Memory read error",
+    "AppearsDate": "2/20/2018 00:00:00 AM"
+  },
+  {
+    "Id": 6,
+    "Description": "Ram not working too is full potential",
+    "AppearsDate": "8/19/2017 02:10:00 AM"
+  }
+]
