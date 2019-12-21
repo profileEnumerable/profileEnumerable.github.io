@@ -3,31 +3,122 @@
     "Id": 1,
     "Description": "Memory read error",
     "AppearsDate": "2/20/2018 00:00:00 AM",
-    "UserServiceLinks": [{ "Id": 1 }, { "Id": 2 }]
+    "UserServiceLinks": [
+      {
+        "Id": 1,
+        "Link": "https://whatis.techtarget.com/definition/memory-read-error"
+      },
+      {
+        "Id": 2,
+        "Link": "https://helpdeskgeek.com/help-desk/instruction-at-referenced-memory-could-not-be-read/"
+      }
+    ],
+    "FixIssues": [
+      {
+        "Id": 3,
+        "Type": "Hardware/Software with high importance",
+        "Price": "100",
+        "TimeSpan": "2/14/2019 6:00:00 PM"
+      }
+    ]
   },
   {
     "Id": 2,
     "Description": "Defective RAM",
-    "AppearsDate": "8/19/2017 02:10:00 AM"
+    "AppearsDate": "8/19/2017 02:10:00 AM",
+    "UserServiceLinks": [
+      {
+        "Id": 2,
+        "Link": "https://helpdeskgeek.com/help-desk/instruction-at-referenced-memory-could-not-be-read/"
+      },
+      {
+        "Id": 3,
+        "Link": "https://www.pcworld.com/article/3040544/do-you-have-bad-ram-heres-how-to-find-out.html"
+      }
+    ],
+    "FixIssues": [
+      {
+        "Id": 5,
+        "Type": "Software with high importance",
+        "Price": "100",
+        "TimeSpan": "6/19/2019 6:00:00 PM"
+      }
+    ]
   },
   {
     "Id": 3,
     "Description": "DDR3 2800mhz 4x4 issue",
-    "AppearsDate": "2/20/2018 00:00:00 AM"
+    "AppearsDate": "2/20/2018 00:00:00 AM",
+    "UserServiceLinks": [
+      {
+        "Id": 2,
+        "Link": "https://helpdeskgeek.com/help-desk/instruction-at-referenced-memory-could-not-be-read/"
+      }
+    ],
+    "FixIssues": [
+      {
+        "Id": 1,
+        "Type": "Hardware",
+        "Price": "100",
+        "TimeSpan": "3/11/2019 6:00:00 PM"
+      }
+    ]
   },
   {
     "Id": 4,
     "Description": "RAM frequency issues after updating BIOS",
-    "AppearsDate": "8/19/2017 02:10:00 AM"
+    "AppearsDate": "8/19/2017 02:10:00 AM",
+    "UserServiceLinks": [
+      {
+        "Id": 3,
+        "Link": "https://www.pcworld.com/article/3040544/do-you-have-bad-ram-heres-how-to-find-out.html"
+      }
+    ],
+    "FixIssues": [
+      {
+        "Id": 1,
+        "Type": "Hardware",
+        "Price": "100",
+        "TimeSpan": "3/11/2019 6:00:00 PM"
+      }
+    ]
   },
   {
     "Id": 5,
     "Description": "Memory read error",
-    "AppearsDate": "2/20/2018 00:00:00 AM"
+    "AppearsDate": "2/20/2018 00:00:00 AM",
+    "UserServiceLinks": [
+      {
+        "Id": 1,
+        "Link": "https://whatis.techtarget.com/definition/memory-read-error"
+      }
+    ],
+    "FixIssues": [
+      {
+        "Id": 1,
+        "Type": "Hardware",
+        "Price": "100",
+        "TimeSpan": "3/11/2019 6:00:00 PM"
+      }
+    ]
   },
   {
     "Id": 6,
     "Description": "Ram not working too is full potential",
-    "AppearsDate": "8/19/2017 02:10:00 AM"
+    "AppearsDate": "8/19/2017 02:10:00 AM",
+    "UserServiceLinks": [
+      {
+        "Id": 3,
+        "Link": "https://www.pcworld.com/article/3040544/do-you-have-bad-ram-heres-how-to-find-out.html"
+      }
+    ],
+    "FixIssues": [
+      {
+        "Id": 1,
+        "Type": "Hardware",
+        "Price": "100",
+        "TimeSpan": "3/11/2019 6:00:00 PM"
+      }
+    ]
   }
 ]
