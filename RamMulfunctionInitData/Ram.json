@@ -1,0 +1,262 @@
+[
+  {
+    "Id": 1,
+    "Name": "Coll memory",
+    "Size": 1,
+    "PruductionDate": "2/20/2018 00:00:00 AM",
+    "MemoryFrequency": 1444,
+    "UsePropose": "Servers",
+    "IsBuffered": "true",
+    "Warranty": "2/20/2022 00:00:00 AM",
+    "Manufacturer": {
+      "Id": 1,
+      "Name": "Samsung",
+      "Country": "USA",
+      "IsCertified": "true"
+    },
+    "RAMMedias": [
+      {
+        "Id": 1,
+        "Data": "Images/image1.jpg",
+        "RAMMediaType": {
+          "Id": 1,
+          "Type": "Image"
+        }
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Name": "Amazing memory",
+    "Size": 1,
+    "PruductionDate": "2/20/2018 00:00:00 AM",
+    "MemoryFrequency": 1444,
+    "UsePropose": "Desktop",
+    "IsBuffered": "true",
+    "Warranty": "2/20/2022 00:00:00 AM",
+    "Manufacturer": {
+      "Id": 1,
+      "Name": "Samsung",
+      "Country": "USA",
+      "IsCertified": "true"
+    },
+    "RAMMedias": [
+      {
+        "Id": 1,
+        "Data": "Images/image2.jpg",
+        "RAMMediaType": {
+          "Id": 1,
+          "Type": "Image"
+        }
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Name": "Fast memory",
+    "Size": 1,
+    "PruductionDate": "2/20/2018 00:00:00 AM",
+    "MemoryFrequency": 1444,
+    "UsePropose": "Servers",
+    "IsBuffered": "true",
+    "Warranty": "2/20/2022 00:00:00 AM",
+    "Manufacturer": {
+      "Id": 1,
+      "Name": "Samsung",
+      "Country": "USA",
+      "IsCertified": "true"
+    },
+    "RAMMedias": [
+      {
+        "Id": 1,
+        "Data": "Images/image3.jpg",
+        "RAMMediaType": {
+          "Id": 1,
+          "Type": "Image"
+        }
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "Name": "Slow memory",
+    "Size": 1,
+    "PruductionDate": "2/20/2018 00:00:00 AM",
+    "MemoryFrequency": 1444,
+    "UsePropose": "Desktop",
+    "IsBuffered": "true",
+    "Warranty": "2/20/2022 00:00:00 AM",
+    "Manufacturer": {
+      "Id": 1,
+      "Name": "Samsung",
+      "Country": "USA",
+      "IsCertified": "true"
+    },
+    "RAMMedias": [
+      {
+        "Id": 1,
+        "Data": "Images/image4.jpg",
+        "RAMMediaType": {
+          "Id": 1,
+          "Type": "Image"
+        }
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "Name": "Just memory",
+    "Size": 1,
+    "PruductionDate": "2/20/2018 00:00:00 AM",
+    "MemoryFrequency": 1444,
+    "UsePropose": "Servers",
+    "IsBuffered": "true",
+    "Warranty": "2/20/2022 00:00:00 AM",
+    "Manufacturer": {
+      "Id": 1,
+      "Name": "Samsung",
+      "Country": "USA",
+      "IsCertified": "true"
+    },
+    "RAMMedias": [
+      {
+        "Id": 1,
+        "Data": "Images/image5.jpg",
+        "RAMMediaType": {
+          "Id": 1,
+          "Type": "Image"
+        }
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "Name": "Expansive memory",
+    "Size": 1,
+    "PruductionDate": "2/20/2018 00:00:00 AM",
+    "MemoryFrequency": 1444,
+    "UsePropose": "Desktop",
+    "IsBuffered": "true",
+    "Warranty": "2/20/2022 00:00:00 AM",
+    "Manufacturer": {
+      "Id": 1,
+      "Name": "Samsung",
+      "Country": "USA",
+      "IsCertified": "true"
+    },
+    "RAMMedias": [
+      {
+        "Id": 1,
+        "Data": "Images/image6.jpg",
+        "RAMMediaType": {
+          "Id": 1,
+          "Type": "Image"
+        }
+      }
+    ]
+  },
+  {
+    "Id": 7,
+    "Name": "Not a memory",
+    "Size": 1,
+    "PruductionDate": "2/20/2018 00:00:00 AM",
+    "MemoryFrequency": 1444,
+    "UsePropose": "Desktop",
+    "IsBuffered": "true",
+    "Warranty": "2/20/2022 00:00:00 AM",
+    "Manufacturer": {
+      "Id": 1,
+      "Name": "Samsung",
+      "Country": "USA",
+      "IsCertified": "true"
+    },
+    "RAMMedias": [
+      {
+        "Id": 1,
+        "Data": "Images/image7.jpg",
+        "RAMMediaType": {
+          "Id": 1,
+          "Type": "Image"
+        }
+      }
+    ]
+  },
+  {
+    "Id": 8,
+    "Name": "Something",
+    "Size": 1,
+    "PruductionDate": "2/20/2018 00:00:00 AM",
+    "MemoryFrequency": 1444,
+    "UsePropose": "Servers",
+    "IsBuffered": "true",
+    "Warranty": "2/20/2022 00:00:00 AM",
+    "Manufacturer": {
+      "Id": 1,
+      "Name": "Samsung",
+      "Country": "USA",
+      "IsCertified": "true"
+    },
+    "RAMMedias": [
+      {
+        "Id": 1,
+        "Data": "Images/image8.jpg",
+        "RAMMediaType": {
+          "Id": 1,
+          "Type": "Image"
+        }
+      }
+    ]
+  },
+  {
+    "Id": 9,
+    "Name": "Under the hod",
+    "Size": 1,
+    "PruductionDate": "2/20/2018 00:00:00 AM",
+    "MemoryFrequency": 1444,
+    "UsePropose": "Servers",
+    "IsBuffered": "true",
+    "Warranty": "2/20/2022 00:00:00 AM",
+    "Manufacturer": {
+      "Id": 1,
+      "Name": "Samsung",
+      "Country": "USA",
+      "IsCertified": "true"
+    },
+    "RAMMedias": [
+      {
+        "Id": 1,
+        "Data": "Images/image9.jpg",
+        "RAMMediaType": {
+          "Id": 1,
+          "Type": "Image"
+        }
+      }
+    ]
+  },
+  {
+    "Id": 10,
+    "Name": "Just cool",
+    "Size": 1,
+    "PruductionDate": "2/20/2018 00:00:00 AM",
+    "MemoryFrequency": 1444,
+    "UsePropose": "Servers",
+    "IsBuffered": "true",
+    "Warranty": "2/20/2022 00:00:00 AM",
+    "Manufacturer": {
+      "Id": 1,
+      "Name": "Samsung",
+      "Country": "USA",
+      "IsCertified": "true"
+    },
+    "RAMMedias": [
+      {
+        "Id": 1,
+        "Data": "Images/image10.jpg",
+        "RAMMediaType": {
+          "Id": 1,
+          "Type": "Image"
+        }
+      }
+    ]
+  }
+]
